@@ -27,3 +27,26 @@ Sector-wise and Region-wise Energy Analysis
 Year-wise Production/Consumption Trends
 
 Interactive Filters and Visuals for End Users
+
+🚀 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/khushitirpude565/Green-Sector-project.git
+   Open pgAdmin, create a database and import the CSV.
+
+Run SQL queries to explore and validate data.
+
+Open the .pbix file in Power BI Desktop to explore the dashboard.
+
+
+🙋‍♀️ About Me
+
+**Khushi Tirpude**  
+Intern Data Analyst | SQL & Power BI Enthusiast  
+🔗 [LinkedIn](https://www.linkedin.com/in/khushitirpude565)  
+
+
+📜 License
+
+This project is licensed under the [MIT License](LICENSE) – feel free to use and adapt with attribution.
